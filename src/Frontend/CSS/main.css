@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#navbar {
+    background-color: #333;
+    color: #fff;
+}
+
+#navbar ul {
+    padding: 0;
+    list-style: none;
+}
+
+#navbar ul li {
+    display: inline;
+    padding: 10px;
+}
+
+#navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#dashboard {
+    padding: 20px;
+    background-color: #fff;
+    color: #333;
+}
+
+#payment {
+    padding: 20px;
+    background-color: #fff;
+    color: #333;
+}
